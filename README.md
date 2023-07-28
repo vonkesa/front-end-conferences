@@ -46,6 +46,10 @@ Verona, **Italy** or **Online**
 24 November 2023  
 Verona, **Italy** or **Online**
 
+[**vueday**](https://www.vueday.it/)  
+10 November 2023  
+Verona, **Italy** or **Online**
+
 ## North America
 
 [**React Miami 2023**](https://reactmiami.com)  
